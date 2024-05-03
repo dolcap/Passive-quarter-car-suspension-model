@@ -1,1 +1,1 @@
-Created a detailed mathematical model of a quarter car suspension system and integrated it in MATLAB and Simulink. Differential equations were solved in MATLAB using the ode23 function and compared it with the state space model. 
+Created a detailed mathematical model of a quarter car suspension system and integrated it in MATLAB and Simulink. Differential equations were solved in MATLAB using the ode23 function and compared it with the state space model. Also, results obtained in MATLAB were compared with dynamic simulation in Simulin.
